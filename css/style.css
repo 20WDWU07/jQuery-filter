@@ -1,0 +1,38 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  background: black;
+  color: whitesmoke;
+
+}
+main{
+  width:80%;
+  margin:auto;
+}
+
+section{
+  width:100%;
+}
+button{
+  margin: 20px 0;
+}
+.food, .drinks{
+  width: 300px;
+  height: auto;
+  min-height: 300px;
+  margin:20px;
+}
+
+.heading{
+  text-align: center;
+  font-size: 80px;
+}
+
+.widget{
+  width: 100%;
+  margin: 30px auto;
+}
